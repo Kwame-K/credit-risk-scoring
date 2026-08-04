@@ -1,0 +1,27 @@
+[project]
+name = "p2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Kristian", email = "kristian.klaban@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.2",
+    "matplotlib>=3.11.1",
+    "numpy>=2.4.6",
+    "pandas>=3.0.5",
+    "pyarrow>=25.0.0",
+    "scikit-learn>=1.9.0",
+    "seaborn>=0.13.2",
+    "xgboost>=3.2.0",
+]
+
+[project.scripts]
+p2 = "p2:main"
+
+[build-system]
+requires = ["uv_build>=0.12.0,<0.13.0"]
+build-backend = "uv_build"

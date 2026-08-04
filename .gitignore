@@ -1,0 +1,14 @@
+# Local Python and Jupyter artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+
+# Données locales : jamais versionnées
+data/
+
+# Modèles et artefacts locaux
+outputs/models/
+*.joblib
+*.pkl
