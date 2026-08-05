@@ -1,0 +1,13 @@
+feature,feature_type,split,psi,interpretation
+dti,Numérique,Test,0.08437363288318558,Stable
+fico_score,Numérique,Validation,0.07335385152284432,Stable
+fico_score,Numérique,Test,0.05596713941178467,Stable
+credit_history_months,Numérique,Test,0.05570584750976165,Stable
+credit_history_months,Numérique,Validation,0.046306398675576975,Stable
+revol_util,Numérique,Test,0.036362575965840575,Stable
+dti,Numérique,Validation,0.03473858948434039,Stable
+revol_util,Numérique,Validation,0.024580945296547734,Stable
+loan_amnt,Numérique,Test,0.022944399060659183,Stable
+loan_amnt,Numérique,Validation,0.013868832410551743,Stable
+annual_inc,Numérique,Test,0.01056051750309161,Stable
+annual_inc,Numérique,Validation,0.005014917311520178,Stable

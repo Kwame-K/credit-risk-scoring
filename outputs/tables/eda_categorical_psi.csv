@@ -1,0 +1,7 @@
+feature,feature_type,split,psi,interpretation
+verification_status,Catégorielle,Test,0.1967986179170297,Dérive modérée
+verification_status,Catégorielle,Validation,0.12257667801538559,Dérive modérée
+purpose,Catégorielle,Test,0.10630612468956381,Dérive modérée
+purpose,Catégorielle,Validation,0.09269386774369165,Stable
+home_ownership,Catégorielle,Test,0.01460166176910736,Stable
+home_ownership,Catégorielle,Validation,0.008905972978144626,Stable

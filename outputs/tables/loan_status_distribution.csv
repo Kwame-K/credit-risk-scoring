@@ -1,11 +1,11 @@
-loan_status,n_loans,share
-Fully Paid,1076751,0.47629076114001806
-Current,878317,0.3885153321912097
-Charged Off,268559,0.1187945685873541
-Late (31-120 days),21467,0.009495727210276812
-In Grace Period,8436,0.003731585910741845
-Late (16-30 days),4349,0.0019237395834300953
-Does not meet the credit policy. Status:Fully Paid,1988,0.0008793732563483627
-Does not meet the credit policy. Status:Charged Off,761,0.00033662125154985115
-Default,40,1.7693626888297035e-05
-,33,1.4597242182845055e-05
+loan_status,n_loans,share,target_treatment
+Fully Paid,1076751,0.47629076114001806,Non-défaut : default_flag = 0
+Current,878317,0.3885153321912097,Exclure : issue finale inconnue
+Charged Off,268559,0.1187945685873541,Défaut : default_flag = 1
+Late (31-120 days),21467,0.009495727210276812,Exclure : issue finale inconnue
+In Grace Period,8436,0.003731585910741845,Exclure : issue finale inconnue
+Late (16-30 days),4349,0.0019237395834300953,Exclure : issue finale inconnue
+Does not meet the credit policy. Status:Fully Paid,1988,0.0008793732563483627,Exclure : issue finale inconnue
+Does not meet the credit policy. Status:Charged Off,761,0.00033662125154985115,Exclure : issue finale inconnue
+Default,40,1.7693626888297035e-05,Défaut : default_flag = 1
+,33,1.4597242182845055e-05,Exclure : issue finale inconnue
