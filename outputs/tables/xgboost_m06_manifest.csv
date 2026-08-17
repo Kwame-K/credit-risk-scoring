@@ -1,0 +1,8 @@
+artefact,fichier
+Bundle XGBoost + préprocesseur + calibrateur,/Users/kwamekristianlaban/Documents/Projet_perso/P2/outputs/models/xgboost_m06_calibre.joblib
+Modèle XGBoost natif,/Users/kwamekristianlaban/Documents/Projet_perso/P2/outputs/models/xgboost_m06_modele.json
+Comparaison finale,/Users/kwamekristianlaban/Documents/Projet_perso/P2/outputs/tables/comparaison_finale_scorecard_xgboost.csv
+Synthèse des gains,/Users/kwamekristianlaban/Documents/Projet_perso/P2/outputs/tables/synthese_gains_xgboost_vs_scorecard.csv
+Bandes de risque test,/Users/kwamekristianlaban/Documents/Projet_perso/P2/outputs/tables/xgboost_m06_bandes_risque_test.csv
+Importance par permutation,/Users/kwamekristianlaban/Documents/Projet_perso/P2/outputs/tables/xgboost_m06_importance_permutation_test.csv
+PSI des PD,/Users/kwamekristianlaban/Documents/Projet_perso/P2/outputs/tables/xgboost_m06_psi_scores.csv

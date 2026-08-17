@@ -1,0 +1,2 @@
+modèle,AUC_train,AUC_validation,AUC_test,Gini_test,KS_test,Brier_test,AUC_PR_train,AUC_PR_validation,AUC_PR_test,taux_defaut_test,PSI_score_train_test,PSI_variable_max,variable_PSI_max,version_probabilites
+XGBoost M06 — probabilités brutes,0.6591840044755364,0.6441333447792545,0.6421420305665866,0.28428406113317317,0.20240219324287317,0.24196219444274902,0.208129158900241,0.21029494714653346,0.22358172773452256,0.14886264866125373,,0.0697759967341563,purpose,Brutes — non calibrées

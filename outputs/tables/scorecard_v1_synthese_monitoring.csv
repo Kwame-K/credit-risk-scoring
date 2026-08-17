@@ -1,0 +1,10 @@
+indicateur,valeur,statut
+AUC test,0.6300061241344961,À suivre
+Gini test,0.26001224826899216,À suivre
+KS test,0.18850128259416815,Discrimination modérée mais stable
+Brier score test,0.12381491286239352,Probabilités initiales retenues
+PSI score train vs validation,0.018814163698534468,Stable
+PSI score train vs test,0.013108807114926561,Stable
+Variable PSI le plus élevé,purpose,À surveiller
+PSI variable le plus élevé,0.06977599673415633,Stable
+Écart maximal de reconstitution,1.1368683772161603e-13,Conforme

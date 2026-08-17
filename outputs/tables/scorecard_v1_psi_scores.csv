@@ -1,0 +1,3 @@
+comparaison,PSI_score,interprétation
+Train vs Validation,0.018814163698534468,Stable
+Train vs Test,0.013108807114926561,Stable

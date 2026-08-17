@@ -1,0 +1,7 @@
+indicateur,fréquence,seuil_alerte,action
+PSI des PD,Mensuelle,"PSI >= 0,10",Analyser le portefeuille et les variables ; réentraîner si nécessaire
+Brier score,Mensuelle / trimestrielle,Dégradation matérielle vs référence,Recalibrer les PD puis réévaluer
+AUC / Gini,Trimestrielle,Baisse matérielle vs validation,"Investiguer la dérive, les données et la cible"
+KS,Trimestrielle,Baisse matérielle vs validation,Revoir les seuils et la politique de risque
+Défaut observé par bande,Mensuelle,Rupture de monotonie,Réviser la politique de bandes
+Écart PD - défaut observé,Mensuelle,Écart persistant et matériel,Recalibrer ou réentraîner selon la cause

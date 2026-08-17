@@ -1,0 +1,7 @@
+feature_woe,coefficient,feature,odds_ratio,sens_attendu
+purpose_woe,-1.0710125659164362,purpose,0.3426613744671418,WoE élevé -> risque de défaut plus faible
+fico_score_woe,-0.8509194268733742,fico_score,0.42702213577556103,WoE élevé -> risque de défaut plus faible
+annual_inc_woe,-0.7733792331336675,annual_inc,0.46145107985742856,WoE élevé -> risque de défaut plus faible
+dti_woe,-0.6241847392592275,dti,0.5356979840768357,WoE élevé -> risque de défaut plus faible
+home_ownership_woe,-0.371268720696599,home_ownership,0.6898585373822148,WoE élevé -> risque de défaut plus faible
+revol_util_woe,-0.2250617267094072,revol_util,0.7984669305020013,WoE élevé -> risque de défaut plus faible

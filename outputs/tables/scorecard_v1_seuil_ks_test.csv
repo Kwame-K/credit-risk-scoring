@@ -1,0 +1,10 @@
+métrique,valeur
+Seuil PD choisi sur validation,0.1361762662260291
+Taux d'alerte sur test,0.42349819451216497
+Sensibilité test,0.5798442988702174
+Spécificité test,0.603846505101829
+Précision test,0.203819424166326
+Vrais positifs,24430.0
+Faux positifs,95431.0
+Vrais négatifs,145463.0
+Faux négatifs,17702.0

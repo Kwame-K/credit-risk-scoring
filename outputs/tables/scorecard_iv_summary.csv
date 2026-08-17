@@ -1,0 +1,10 @@
+feature,feature_type,n_buckets,iv,interpretation_iv
+fico_score,Numérique,5,0.13103375749655496,Moyenne
+annual_inc,Numérique,5,0.08667932388684349,Faible
+dti,Numérique,5,0.03638981276373917,Faible
+revol_util,Numérique,6,0.033826683742405175,Faible
+purpose,Catégorielle,10,0.03106680555350278,Faible
+home_ownership,Catégorielle,4,0.02942574647662822,Faible
+credit_history_months,Numérique,5,0.015722553281497235,Très faible
+loan_amnt,Numérique,5,0.004391909671701324,Très faible
+verification_status,Catégorielle,3,0.0015557375584628827,Très faible

@@ -1,0 +1,7 @@
+feature,PSI,interprétation
+purpose,0.06977599673415633,Stable
+dti,0.06586520696936399,Stable
+fico_score,0.05305933408210301,Stable
+revol_util,0.03159973095240853,Stable
+home_ownership,0.011008399695736236,Stable
+annual_inc,0.008572024738022908,Stable
