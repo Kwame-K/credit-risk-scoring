@@ -19,7 +19,7 @@ Only information available at the time of loan origination is used, preventing d
 
 
 ## Project Structure
-
+```text
 credit-risk-scoring/
 ├── data/
 │   ├── raw/                         # Original Lending Club data
@@ -37,7 +37,7 @@ credit-risk-scoring/
 ├── src/p2/                          # Reusable Python modules
 ├── pyproject.toml                   # Project dependencies
 └── README.md
-
+ ```
 
 
 ## Methodology
