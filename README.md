@@ -36,7 +36,8 @@ credit-risk-scoring/
 │   └── tables/
 ├── src/p2/                          # Reusable Python modules
 ├── pyproject.toml                   # Project dependencies
-└── README.md```
+└── README.md
+```
 
 
 ## Methodology
